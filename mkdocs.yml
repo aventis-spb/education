@@ -1,0 +1,4 @@
+site_name: Education
+site_url: https://aventis-spb.github.io/education
+theme:
+  name: material 
